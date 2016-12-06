@@ -12,9 +12,6 @@ header{
 .navbar-default {
     background-color: rgba(206,24,24,0.50);
     }
-.navbar-default .navbar-brand {
-    color: #F05F40;
-}
 .navbar-default .navbar-toggle {
     border-color: white;
 }
